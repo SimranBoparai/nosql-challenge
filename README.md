@@ -3,22 +3,18 @@
 
 # Table of Contents
 
-1. [Challenge Overview](#challenge-overview)
-
-2. [Prerequisties](#prerequisites)
--  [Required Tools](#required-tools)
--   [Windows Installation](#windows-installation-process)
--   [Repository Setup](#repository-setup)
-
-3. [Repository Structure](#repository-structure)
-
-4. [Challenge Instructions](#challenge-instructions)
-
-5. [Challenge Code Example](#challenge-code-example)
-
-6. [Acknowledgements](#acknowledgements)
-
-7. [Author](#author)
+- [NoSQL Challenge](#nosql-challenge)
+- [Table of Contents](#table-of-contents)
+- [Challenge Overview](#challenge-overview)
+- [Prerequisites](#prerequisites)
+  - [Required Tools](#required-tools)
+  - [Windows Installation Process](#windows-installation-process)
+  - [Repository Setup:](#repository-setup)
+- [Repository Structure](#repository-structure)
+- [Challenge Instructions](#challenge-instructions)
+- [Challenge Code Examples](#challenge-code-examples)
+- [Acknowledgements](#acknowledgements)
+- [Author](#author)
 
 
 # Challenge Overview
@@ -91,7 +87,7 @@ This challenge consists of three parts: database setup, updating the database, a
     - How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
 
-# Challenge Code Example
+# Challenge Code Examples
 
 Part 1: Database and Jupyter Notebook Setup:
 ```VS Code
